@@ -7,3 +7,6 @@ It initially works with [GridLAB-D models](https://www.gridlabd.org/) ([GitHub](
 Project Start: October/2020
 
 Author: [Ricardo M. Czekster](https://github.com/czekster)
+
+Licence: [GPLv3](http://www.gnu.org/licenses/gpl-3.0.en.html)
+
